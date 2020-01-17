@@ -1,0 +1,17 @@
+// Example JSON OBJECT 
+
+// let payload = {
+//     fname: "test",
+        // lname: "test",
+        // age: 33
+// }
+
+// JSON.stringify(payload)
+
+{
+    "name": "test",
+    "lname": "test",
+    "age": 33,
+    "array": [1,2,3,4,5],
+    "myfunction": "myFunction()"
+}
